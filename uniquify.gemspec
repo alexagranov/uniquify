@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.homepage = %q{http://github.com/ryanb/uniquify}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Uniquify", "--main", "README.rdoc"]
   s.require_paths = ["lib"]
-  s.rubyforge_project = %q{uniquify}
+  s.rubyforge_project = '[none]'
   s.summary = %q{Generate a unique token with Active Record.}
 
 end
